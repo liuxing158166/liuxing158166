@@ -132,7 +132,7 @@
 
 <footer>
   <p>© 2025 Bajaj FinServ. All Rights Reserved.</p>
-  <p>Contact us: support@bajajfinserv.com | +91-12345-67890</p>
+  <p>Contact us: https://t.me/diamondcorporateacc | +91 73-2695-2129</p>
 </footer>
 
 </body>
